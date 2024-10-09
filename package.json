@@ -1,0 +1,17 @@
+{
+  "name": "webscrapping-puppeteer",
+  "version": "1.0.0",
+  "description": "A Web Scraping app build with Node.js and Puppeteer",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scrap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.5.0"
+  }
+}
